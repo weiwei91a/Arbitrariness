@@ -5,4 +5,4 @@
 ### learn MarkDown
 * Just come to one
 * Just come to two
-*rt Just come to Three
+* <font color=gray><code>Just come to Three</code></font>
